@@ -11,7 +11,7 @@ import javax.swing.JOptionPane;
 import java.sql.*;
 /**
  *
- * @author DELL
+ * @author DELL happy
  */
 public class hospitalmanagement extends javax.swing.JFrame {
     /**
